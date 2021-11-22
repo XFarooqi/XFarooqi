@@ -1,16 +1,22 @@
-### Customizing My Github Profile 👋
+### Hi, I am Farooqi 👋😃
 
-<!--
-**XFarooqi/XFarooqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Lover, Playing with data, Machine Learning enthusiastic, Open Source Contributor and a Learner.
 
-Here are some ideas to get you started:
+I am currently doing a Bachelor of Computer Science at COMSATS University Islamabad. I love technology and the way it improves our life with automation and wants to create something innovative for the betterment of society. I am working on to create a unique system with the help of artificial intelligence and machine learning to manage that data with less human interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```diff
+- Status = "Hate Coding";
++ Status = "Love Coding";
+
+```
+<details>
+  <summary>My Social Media Presence</summary>
+  
+  #### [Twitter](https://twitter.com/X_Farooqi)
+  
+  #### [Linkedin](https://www.linkedin.com/in/abdul-raheem-343a321bb/)
+ 
+</details>
+
+`Readme Constructuon Going ON!`
