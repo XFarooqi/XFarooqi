@@ -25,4 +25,10 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
    width = "48%" src="https://github-readme-stats.vercel.app/api?username=xfarooqi&show_icons=true&theme=tokyonight" 
 />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfarooqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#512](https://github.com/PyTorchLightning/metrics/pull/518) in [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics)
+2. 💪 Opened PR [#3](https://github.com/minicb0/Fact-Checker/pull/3) in [minicb0/Fact-Checker](https://github.com/minicb0/Fact-Checker)
+<!--END_SECTION:activity-->
 
