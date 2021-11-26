@@ -11,12 +11,24 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 
 ```
 
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
+
+<br />
+<br />
+
 
 `Readme Constructuon Going ON!`
 
 <img 
    width = "48%" src="https://github-readme-stats.vercel.app/api?username=xfarooqi&show_icons=true&theme=tokyonight" 
 />
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfarooqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
  <details>
@@ -31,6 +43,11 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 <!--END_SECTION:activity-->
   
 </details>
+
+[twitter]: https://twitter.com/X_Farooqi
+[stackoverflow]: https://stackoverflow.com/users/17386561/abdul-raheem
+[instagram]: https://www.instagram.com/farooqi01/
+[linkedin]: https://www.linkedin.com/in/abdul-raheem-343a321bb/
  
  
 
