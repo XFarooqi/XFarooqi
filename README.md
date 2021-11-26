@@ -30,5 +30,8 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
  <!--START_SECTION:activity-->
 1. 🗣 Commented on [#518](https://github.com/PyTorchLightning/metrics/issues/518) in [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics)
 2. ❌ Closed PR [#513](https://github.com/PyTorchLightning/metrics/pull/513) in [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics)
+3. 💪 Opened PR [#1605](https://github.com/nuxt/framework/pull/1605) in [nuxt/framework](https://github.com/nuxt/framework)
+4. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
+5. 💪 Opened PR [#1409](https://github.com/nuxt/framework/pull/1409) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
 
