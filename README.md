@@ -53,7 +53,7 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/X_Farooqi?style=social)
 
-Under Construction!
+
 
 The End ! ! !
  
