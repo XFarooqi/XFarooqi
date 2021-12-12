@@ -51,7 +51,6 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 [instagram]: https://www.instagram.com/farooqi01/
 [linkedin]: https://www.linkedin.com/in/abdul-raheem-343a321bb/
 
- 
- Still Under Construction
+
 
 
