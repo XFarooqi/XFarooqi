@@ -60,7 +60,6 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 <!---
 Make a Comment
 nothing special today
-no copmment
 After 4 days
 Adding something in the comment
 --->
