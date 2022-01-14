@@ -39,8 +39,8 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#49](https://github.com/TRoboto/datacamp-downloader/issues/49) in [TRoboto/datacamp-downloader](https://github.com/TRoboto/datacamp-downloader)
-2. ❌ Closed PR [#513](https://github.com/PyTorchLightning/metrics/pull/513) in [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics)
+1. 🗣 Commented on [#6](https://github.com/GhaziXX/datacamp-dl/issues/6) in [GhaziXX/datacamp-dl](https://github.com/GhaziXX/datacamp-dl)
+2. ❗️ Opened issue [#49](https://github.com/TRoboto/datacamp-downloader/issues/49) in [TRoboto/datacamp-downloader](https://github.com/TRoboto/datacamp-downloader)
 3. 🗣 Commented on [#518](https://github.com/PyTorchLightning/metrics/issues/518) in [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics)
 4. 💪 Opened PR [#518](https://github.com/PyTorchLightning/metrics/pull/518) in [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics)
 5. ❌ Closed PR [#517](https://github.com/PyTorchLightning/metrics/pull/517) in [PyTorchLightning/metrics](https://github.com/PyTorchLightning/metrics)
