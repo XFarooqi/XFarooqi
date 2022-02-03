@@ -1,4 +1,4 @@
-### Hi, I am Abdul Raheen Farooqi 👋😃
+### Hi, I am Abdul Raheem Farooqi 👋😃
 
 Python Lover, Playing with data, Machine Learning enthusiastic, Open Source Contributor and a Learner.
 
