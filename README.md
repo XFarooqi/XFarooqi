@@ -1,4 +1,4 @@
-### Hi, I am Farooqi 👋😃
+### Hi, I am Abdul Raheen Farooqi 👋😃
 
 Python Lover, Playing with data, Machine Learning enthusiastic, Open Source Contributor and a Learner.
 
@@ -61,7 +61,7 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 Make a Comment
 After nns\f]elt
 ok After a big brake
-Wasting my time,nothing else!
+Changed my name
 Adding something in the comment
 --->
 
