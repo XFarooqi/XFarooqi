@@ -61,8 +61,6 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 Make a Comment
 After nns\f]elt
 ok After a big brake
-hee
-Changed my name
 Adding something in the comment
 --->
 
