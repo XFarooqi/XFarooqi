@@ -60,7 +60,6 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 <!---
 Make a Comment
 After nns\f]eltno
-...
-Adding something in the comment
+Today I am changing my aboutme .Adding something in the comment
 --->
 
