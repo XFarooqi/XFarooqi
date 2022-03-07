@@ -1,6 +1,6 @@
 ### Hi, I am Abdul Raheem Farooqi 👋😃
 
-Python Lover, Playing with data, Machine Learning enthusiastic, Open Source Contributor and a Learner.
+Python Developer | Talk About Data | Machine Learning Enthusiastic | Open Source Contributor | CS Student
 
 I am currently doing a Bachelor of Computer Science at COMSATS University Islamabad. I love technology and the way it improves our life with automation and wants to create something innovative for the betterment of society. I am working on to create a unique system with the help of artificial intelligence and machine learning to manage the data with less human interaction.
 
