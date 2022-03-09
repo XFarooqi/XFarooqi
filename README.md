@@ -34,7 +34,6 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfarooqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!---
  <details>
   <summary>Recent GitHub Activites</summary>
   
@@ -48,8 +47,6 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   
 </details>
 
-
---->
 
 [twitter]: https://twitter.com/X_Farooqi
 [stackoverflow]: https://stackoverflow.com/users/17386561/abdul-raheem
