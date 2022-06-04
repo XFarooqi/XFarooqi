@@ -58,6 +58,7 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
 Make a Comment
 Unable to Make it with my iown faultdiverted.Today will change some github stats
 Today I am changing my aboutme .Adding something in the commen.t.
+uplakided on meidum
 NMo its time to bosst hte work.Event is going to occour....busy in life
 frustation at peek.chanign name, ok that fine doing nothing....
 --->
