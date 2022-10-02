@@ -38,11 +38,11 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/XFarooqi/MLSA/pull/1) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
-2. 🎉 Merged PR [#2](https://github.com/XFarooqi/MLSA/pull/2) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
-3. 🗣 Commented on [#1](https://github.com/XFarooqi/MLSA/issues/1) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
-4. ❌ Closed PR [#5334](https://github.com/education/GitHubGraduation-2022/pull/5334) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-5. 🗣 Commented on [#5334](https://github.com/education/GitHubGraduation-2022/issues/5334) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+1. 💪 Opened PR [#3](https://github.com/iamzaidsoomro/Project-and-Profile-Markdown/pull/3) in [iamzaidsoomro/Project-and-Profile-Markdown](https://github.com/iamzaidsoomro/Project-and-Profile-Markdown)
+2. 💪 Opened PR [#18](https://github.com/ZapeeoSheikh/Hacktoberfest-22/pull/18) in [ZapeeoSheikh/Hacktoberfest-22](https://github.com/ZapeeoSheikh/Hacktoberfest-22)
+3. ❌ Closed PR [#1](https://github.com/XFarooqi/MLSA/pull/1) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
+4. 🎉 Merged PR [#2](https://github.com/XFarooqi/MLSA/pull/2) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
+5. 🗣 Commented on [#1](https://github.com/XFarooqi/MLSA/issues/1) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
 <!--END_SECTION:activity-->
   
 </details>
