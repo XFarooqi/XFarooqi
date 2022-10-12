@@ -38,11 +38,11 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/iammkullah/Jack-of-Many-Trades/pull/10) in [iammkullah/Jack-of-Many-Trades](https://github.com/iammkullah/Jack-of-Many-Trades)
-2. 💪 Opened PR [#41](https://github.com/AbubakarSattar-dev/HackerRank-ProblemSolutions/pull/41) in [AbubakarSattar-dev/HackerRank-ProblemSolutions](https://github.com/AbubakarSattar-dev/HackerRank-ProblemSolutions)
-3. 💪 Opened PR [#13](https://github.com/AbubakarSattar-dev/HackerRank-ProblemSolutions/pull/13) in [AbubakarSattar-dev/HackerRank-ProblemSolutions](https://github.com/AbubakarSattar-dev/HackerRank-ProblemSolutions)
-4. 💪 Opened PR [#57](https://github.com/ZapeeoSheikh/Hacktoberfest-22/pull/57) in [ZapeeoSheikh/Hacktoberfest-22](https://github.com/ZapeeoSheikh/Hacktoberfest-22)
-5. ❌ Closed PR [#3](https://github.com/iamzaidsoomro/Project-and-Profile-Markdown/pull/3) in [iamzaidsoomro/Project-and-Profile-Markdown](https://github.com/iamzaidsoomro/Project-and-Profile-Markdown)
+1. 💪 Opened PR [#11](https://github.com/iammkullah/Jack-of-Many-Trades/pull/11) in [iammkullah/Jack-of-Many-Trades](https://github.com/iammkullah/Jack-of-Many-Trades)
+2. 💪 Opened PR [#10](https://github.com/iammkullah/Jack-of-Many-Trades/pull/10) in [iammkullah/Jack-of-Many-Trades](https://github.com/iammkullah/Jack-of-Many-Trades)
+3. 💪 Opened PR [#41](https://github.com/AbubakarSattar-dev/HackerRank-ProblemSolutions/pull/41) in [AbubakarSattar-dev/HackerRank-ProblemSolutions](https://github.com/AbubakarSattar-dev/HackerRank-ProblemSolutions)
+4. 💪 Opened PR [#13](https://github.com/AbubakarSattar-dev/HackerRank-ProblemSolutions/pull/13) in [AbubakarSattar-dev/HackerRank-ProblemSolutions](https://github.com/AbubakarSattar-dev/HackerRank-ProblemSolutions)
+5. 💪 Opened PR [#57](https://github.com/ZapeeoSheikh/Hacktoberfest-22/pull/57) in [ZapeeoSheikh/Hacktoberfest-22](https://github.com/ZapeeoSheikh/Hacktoberfest-22)
 <!--END_SECTION:activity-->
   
 </details>
