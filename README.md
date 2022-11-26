@@ -1,4 +1,4 @@
-### Hi, I am Abdul Raheem Farooqi 👋😃
+### Hi, I am Abdul Raheem Farooq 👋😃
 
 Python Developer | Talk About Data | Machine Learning Enthusiastic | Open Source Contributor | CS Student
 
