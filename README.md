@@ -39,10 +39,10 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   
  <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8453](https://github.com/apache/apisix/issues/8453) in [apache/apisix](https://github.com/apache/apisix)
-2. 💪 Opened PR [#8453](https://github.com/apache/apisix/pull/8453) in [apache/apisix](https://github.com/apache/apisix)
-3. 🗣 Commented on [#8354](https://github.com/apache/apisix/issues/8354) in [apache/apisix](https://github.com/apache/apisix)
-4. 🗣 Commented on [#6197](https://github.com/apache/apisix/issues/6197) in [apache/apisix](https://github.com/apache/apisix)
-5. 🎉 Merged PR [#1](https://github.com/XFarooqi/Into-To-GitHub/pull/1) in [XFarooqi/Into-To-GitHub](https://github.com/XFarooqi/Into-To-GitHub)
+2. 🗣 Commented on [#8453](https://github.com/apache/apisix/issues/8453) in [apache/apisix](https://github.com/apache/apisix)
+3. 💪 Opened PR [#8453](https://github.com/apache/apisix/pull/8453) in [apache/apisix](https://github.com/apache/apisix)
+4. 🗣 Commented on [#8354](https://github.com/apache/apisix/issues/8354) in [apache/apisix](https://github.com/apache/apisix)
+5. 🗣 Commented on [#6197](https://github.com/apache/apisix/issues/6197) in [apache/apisix](https://github.com/apache/apisix)
 <!--END_SECTION:activity-->
   
 </details>
