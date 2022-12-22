@@ -38,11 +38,11 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/XFarooqi/temp/pull/6) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
-2. ❌ Closed PR [#5](https://github.com/XFarooqi/temp/pull/5) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
-3. ❌ Closed PR [#3](https://github.com/XFarooqi/temp/pull/3) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
-4. ❌ Closed PR [#4](https://github.com/XFarooqi/temp/pull/4) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
-5. 💪 Opened PR [#5](https://github.com/XFarooqi/temp/pull/5) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
+1. 💪 Opened PR [#10](https://github.com/XFarooqi/temp/pull/10) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
+2. 💪 Opened PR [#9](https://github.com/XFarooqi/temp/pull/9) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
+3. 💪 Opened PR [#8](https://github.com/XFarooqi/temp/pull/8) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
+4. 💪 Opened PR [#7](https://github.com/XFarooqi/temp/pull/7) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
+5. ❌ Closed PR [#2](https://github.com/XFarooqi/temp/pull/2) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
 <!--END_SECTION:activity-->
   
 </details>
