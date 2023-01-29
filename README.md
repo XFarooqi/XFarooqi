@@ -38,11 +38,11 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/XFarooqi/temp/pull/12) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
-2. 💪 Opened PR [#12](https://github.com/XFarooqi/temp/pull/12) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
-3. ❗️ Opened issue [#6583](https://github.com/EddieHubCommunity/support/issues/6583) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#1](https://github.com/XFarooqi/Email_Automator/pull/1) in [XFarooqi/Email_Automator](https://github.com/XFarooqi/Email_Automator)
-5. 🎉 Merged PR [#3](https://github.com/XFarooqi/MLSA/pull/3) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
+1. 🗣 Commented on [#8453](https://github.com/apache/apisix/issues/8453) in [apache/apisix](https://github.com/apache/apisix)
+2. 🎉 Merged PR [#12](https://github.com/XFarooqi/temp/pull/12) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
+3. 💪 Opened PR [#12](https://github.com/XFarooqi/temp/pull/12) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
+4. ❗️ Opened issue [#6583](https://github.com/EddieHubCommunity/support/issues/6583) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🎉 Merged PR [#1](https://github.com/XFarooqi/Email_Automator/pull/1) in [XFarooqi/Email_Automator](https://github.com/XFarooqi/Email_Automator)
 <!--END_SECTION:activity-->
   
 </details>
