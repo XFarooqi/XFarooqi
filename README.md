@@ -38,11 +38,11 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/XFarooqi/PracticePR/pull/1) in [XFarooqi/PracticePR](https://github.com/XFarooqi/PracticePR)
-2. 💪 Opened PR [#1](https://github.com/XFarooqi/PracticePR/pull/1) in [XFarooqi/PracticePR](https://github.com/XFarooqi/PracticePR)
-3. 💪 Opened PR [#1](https://github.com/XFarooqi/Intro-to-GitHub/pull/1) in [XFarooqi/Intro-to-GitHub](https://github.com/XFarooqi/Intro-to-GitHub)
-4. 🗣 Commented on [#8453](https://github.com/apache/apisix/issues/8453) in [apache/apisix](https://github.com/apache/apisix)
-5. 🎉 Merged PR [#12](https://github.com/XFarooqi/temp/pull/12) in [XFarooqi/temp](https://github.com/XFarooqi/temp)
+1. ❌ Closed PR [#41](https://github.com/Abubakar-Sattar/HackerRank-ProblemSolutions/pull/41) in [Abubakar-Sattar/HackerRank-ProblemSolutions](https://github.com/Abubakar-Sattar/HackerRank-ProblemSolutions)
+2. 🎉 Merged PR [#1](https://github.com/XFarooqi/PracticePR/pull/1) in [XFarooqi/PracticePR](https://github.com/XFarooqi/PracticePR)
+3. 💪 Opened PR [#1](https://github.com/XFarooqi/PracticePR/pull/1) in [XFarooqi/PracticePR](https://github.com/XFarooqi/PracticePR)
+4. 💪 Opened PR [#1](https://github.com/XFarooqi/Intro-to-GitHub/pull/1) in [XFarooqi/Intro-to-GitHub](https://github.com/XFarooqi/Intro-to-GitHub)
+5. 🗣 Commented on [#8453](https://github.com/apache/apisix/issues/8453) in [apache/apisix](https://github.com/apache/apisix)
 <!--END_SECTION:activity-->
   
 </details>
