@@ -38,11 +38,11 @@ I am currently doing a Bachelor of Computer Science at COMSATS University Islama
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/XFarooqi/MLSA/pull/4) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
-2. ❌ Closed PR [#41](https://github.com/Abubakar-Sattar/HackerRank-ProblemSolutions/pull/41) in [Abubakar-Sattar/HackerRank-ProblemSolutions](https://github.com/Abubakar-Sattar/HackerRank-ProblemSolutions)
-3. 🎉 Merged PR [#1](https://github.com/XFarooqi/PracticePR/pull/1) in [XFarooqi/PracticePR](https://github.com/XFarooqi/PracticePR)
-4. 💪 Opened PR [#1](https://github.com/XFarooqi/PracticePR/pull/1) in [XFarooqi/PracticePR](https://github.com/XFarooqi/PracticePR)
-5. 💪 Opened PR [#1](https://github.com/XFarooqi/Intro-to-GitHub/pull/1) in [XFarooqi/Intro-to-GitHub](https://github.com/XFarooqi/Intro-to-GitHub)
+1. 🎉 Merged PR [#5](https://github.com/XFarooqi/MLSA/pull/5) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
+2. 🎉 Merged PR [#4](https://github.com/XFarooqi/MLSA/pull/4) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
+3. ❌ Closed PR [#41](https://github.com/Abubakar-Sattar/HackerRank-ProblemSolutions/pull/41) in [Abubakar-Sattar/HackerRank-ProblemSolutions](https://github.com/Abubakar-Sattar/HackerRank-ProblemSolutions)
+4. 🎉 Merged PR [#1](https://github.com/XFarooqi/PracticePR/pull/1) in [XFarooqi/PracticePR](https://github.com/XFarooqi/PracticePR)
+5. 💪 Opened PR [#1](https://github.com/XFarooqi/PracticePR/pull/1) in [XFarooqi/PracticePR](https://github.com/XFarooqi/PracticePR)
 <!--END_SECTION:activity-->
   
 </details>
