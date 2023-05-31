@@ -39,9 +39,9 @@ Hi, I am a senior computer science student at COMSATS University Sahiwal Campus,
   
  <!--START_SECTION:activity-->
 1. 💪 Opened PR [#244](https://github.com/globalazure/communities/pull/244) in [globalazure/communities](https://github.com/globalazure/communities)
-2. ❗️ Closed issue [#2](https://github.com/Ahmad44452/comsatshackathon/issues/2) in [Ahmad44452/comsatshackathon](https://github.com/Ahmad44452/comsatshackathon)
-3. ❗️ Opened issue [#2](https://github.com/Ahmad44452/comsatshackathon/issues/2) in [Ahmad44452/comsatshackathon](https://github.com/Ahmad44452/comsatshackathon)
-4. ❗️ Opened issue [#1](https://github.com/Ahmad44452/comsatshackathon/issues/1) in [Ahmad44452/comsatshackathon](https://github.com/Ahmad44452/comsatshackathon)
+2. 🔒 Closed issue [#2](https://github.com/Ahmad44452/comsatshackathon/issues/2) in [Ahmad44452/comsatshackathon](https://github.com/Ahmad44452/comsatshackathon)
+3. ❗ Opened issue [#2](https://github.com/Ahmad44452/comsatshackathon/issues/2) in [Ahmad44452/comsatshackathon](https://github.com/Ahmad44452/comsatshackathon)
+4. ❗ Opened issue [#1](https://github.com/Ahmad44452/comsatshackathon/issues/1) in [Ahmad44452/comsatshackathon](https://github.com/Ahmad44452/comsatshackathon)
 5. ❌ Closed PR [#8453](https://github.com/apache/apisix/pull/8453) in [apache/apisix](https://github.com/apache/apisix)
 <!--END_SECTION:activity-->
   
