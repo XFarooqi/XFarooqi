@@ -56,11 +56,6 @@ Hi, I am a senior computer science student at COMSATS University Sahiwal Campus,
 
 
 <!---
-Make a Comment
-Unable to Make it with my iown faultdiverted.Today will change some github stats
-Today I am changing my aboutme .Adding something in the commen.t.
-uplakided on meidum,lola.....
-NMo its time to bosst hte work.Event .is going to occour.
-frustation at peek.chani
+
 --->
 
