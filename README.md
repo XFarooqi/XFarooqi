@@ -2,7 +2,7 @@
 
 Python Developer | Talk About Data | Machine Learning Enthusiastic | Open Source Contributor | CS Student
 
-Hi, I am a senior computer science student at COMSATS University Sahiwal Campus, with a passion for technology and a desire to make a positive impact on society. My strengths include proficiency in Python and a focus on Machine Learning. I am also committed to open source and love to share my knowledge with others by writing technical blogs and making youtube videos where I simplified complex topics. I am actively involved in Hackathons, both as a participant and organizer. Additionally, I am currently serving as a volunteer community builder, providing mentorship and guidance to students on my campus and beyond.
+Hi, I am a senior computer science student at COMSATS University Sahiwal Campus, with a passion for technology and a desire to make a positive impact on society. My strengths include proficiency in Python and a focus on Machine Learning. I am also committed to open source and love to share my knowledge with others by writing technical blogs and making YouTube videos where I simplified complex topics. I am actively involved in Hackathons, both as a participant and organizer. Additionally, I am currently serving as a volunteer community builder, providing mentorship and guidance to students on my campus and beyond.
 
 
 ```diff
@@ -50,7 +50,7 @@ Hi, I am a senior computer science student at COMSATS University Sahiwal Campus,
 
 [twitter]: https://twitter.com/X_Farooqi
 [stackoverflow]: https://stackoverflow.com/users/17386561/abdul-raheem
-[instagram]: https://www.instagram.com/farooqi01/
+[Instagram]: https://www.instagram.com/farooqi01/
 [linkedin]: https://www.linkedin.com/in/xfarooqi/
 [blogger]: https://linktr.ee/abdulraheem01/
 
