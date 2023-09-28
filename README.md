@@ -1,8 +1,12 @@
 ### Hi, I am Abdul Raheem Farooqi 👋😃
 
-Python Developer | Talk About Data | Machine Learning Enthusiastic | Open Source Contributor | CS Student
+Data Scientist | GitHub Campus Expert | AWS Community Builder| Gold MLSA | Open Source Contributor
 
-Hi, I am a senior computer science student at COMSATS University Sahiwal Campus, with a passion for technology and a desire to make a positive impact on society. My strengths include proficiency in Python and a focus on Machine Learning. I am also committed to open source and love to share my knowledge with others by writing technical blogs and making YouTube videos where I simplified complex topics. I am actively involved in Hackathons, both as a participant and organizer. Additionally, I am currently serving as a volunteer community builder, providing mentorship and guidance to students on my campus and beyond.
+👋 Greetings! I'm Abdul Raheem, a junior data scientist on a journey to dive deep into the ocean of artificial intelligence. The world of Machine Learning and deep learning is my canvas, where I paint algorithms that unravel insights from data's intricate tapestry. I am a 2x Microsoft Certified & 2x Udacity Nanodegree holder in the domain of ML/AI.
+
+I am also an active contributor to the open-source community, contributing to over 5+ organizations including Apache APISIX, Lightening-AI and DevHub. I love creating content in the form of YouTube videos and Blogs to simplify complex topics in a fun and interactive way. I take pride in my impactful project: "DevHub," empowering individuals with Career Mentorship, Structured Roadmaps, Virtual Internships and No-Code Portfolios to help them become Nex-Gen Developers.
+
+🌱 Beyond code, I'm a community virtuoso. I've planted the seeds of tech communities, nurturing them into vibrant ecosystems with over a thousand members. I have organized 30+ tech events, hackathons and Inter-City Coding Competition to help my peers learn and build real-world solutions.
 
 
 ```diff
