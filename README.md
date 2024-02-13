@@ -2,7 +2,7 @@
 
 Data Scientist | GitHub Campus Expert | AWS Community Builder| Gold MLSA | Open Source Contributor
 
-👋 Greetings! I'm Abdul Raheem, a junior data scientist on a journey to dive deep into the ocean of artificial intelligence. The world of Machine Learning and deep learning is my canvas, where I paint algorithms that unravel insights from data's intricate tapestry. I am a 2x Microsoft Certified & 2x Udacity Nanodegree holder in the domain of ML/AI.
+👋 Greetings! From a Data scientist who is on a journey to dive deep into the ocean of artificial intelligence. The world of Machine Learning and deep learning is my canvas, where I paint algorithms that unravel insights from data's intricate tapestry. I am a 2x Microsoft Certified & 2x Udacity Nanodegree holder in the domain of ML/AI.
 
 🌱 Beyond code, I'm a community virtuoso. I've planted the seeds of tech communities, nurturing them into vibrant ecosystems with over a thousand members. I have organized 30+ tech events, hackathons and Inter-City Coding Competition to help my peers learn and build real-world solutions.
 
