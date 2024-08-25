@@ -40,9 +40,9 @@ Data Scientist | GitHub Campus Expert | AWS Community Builder| Gold MLSA | Open 
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/databricks-industry-solutions/notebook-solution-companion/issues/11) in [databricks-industry-solutions/notebook-solution-companion](https://github.com/databricks-industry-solutions/notebook-solution-companion)
-2. 💪 Opened PR [#30](https://github.com/GDSC-COMSATS-Sahiwal/tegathon/pull/30) in [GDSC-COMSATS-Sahiwal/tegathon](https://github.com/GDSC-COMSATS-Sahiwal/tegathon)
-3. ❗ Opened issue [#26](https://github.com/GDSC-COMSATS-Sahiwal/tegathon/issues/26) in [GDSC-COMSATS-Sahiwal/tegathon](https://github.com/GDSC-COMSATS-Sahiwal/tegathon)
+1. 🎉 Merged PR [#2](https://github.com/XFarooqi/DevHub/pull/2) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
+2. 💪 Opened PR [#2](https://github.com/XFarooqi/DevHub/pull/2) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
+3. ❗ Opened issue [#1](https://github.com/XFarooqi/DevHub/issues/1) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
 4. 💪 Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-XFarooqi/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-XFarooqi](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-XFarooqi)
 5. ❌ Closed PR [#8453](https://github.com/apache/apisix/pull/8453) in [apache/apisix](https://github.com/apache/apisix)
 <!--END_SECTION:activity-->
