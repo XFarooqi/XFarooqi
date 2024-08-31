@@ -40,11 +40,11 @@ Data Scientist | GitHub Campus Expert | AWS Community Builder| Gold MLSA | Open 
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/XFarooqi/DevHub/issues/1) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
-2. 🎉 Merged PR [#2](https://github.com/XFarooqi/DevHub/pull/2) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
-3. 💪 Opened PR [#2](https://github.com/XFarooqi/DevHub/pull/2) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
-4. ❗ Opened issue [#1](https://github.com/XFarooqi/DevHub/issues/1) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
-5. ❌ Closed PR [#8453](https://github.com/apache/apisix/pull/8453) in [apache/apisix](https://github.com/apache/apisix)
+1. 🎉 Merged PR [#2](https://github.com/XFarooqi/hackathon-project/pull/2) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
+2. 💪 Opened PR [#2](https://github.com/XFarooqi/hackathon-project/pull/2) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
+3. ❗ Opened issue [#1](https://github.com/XFarooqi/hackathon-project/issues/1) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
+4. 🔒 Closed issue [#1](https://github.com/XFarooqi/DevHub/issues/1) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
+5. 🎉 Merged PR [#2](https://github.com/XFarooqi/DevHub/pull/2) in [XFarooqi/DevHub](https://github.com/XFarooqi/DevHub)
 <!--END_SECTION:activity-->
   
 </details>
