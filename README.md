@@ -40,11 +40,11 @@ Data Scientist | GitHub Campus Expert | AWS Community Builder| Gold MLSA | Open 
   <summary>Recent GitHub Activites</summary>
   
  <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/XFarooqi/hackathon-project/issues/4) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
-2. ❗ Opened issue [#4](https://github.com/XFarooqi/hackathon-project/issues/4) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
-3. 🎉 Merged PR [#2](https://github.com/XFarooqi/hackathon-project/pull/2) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
-4. 💪 Opened PR [#2](https://github.com/XFarooqi/hackathon-project/pull/2) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
-5. ❗ Opened issue [#1](https://github.com/XFarooqi/hackathon-project/issues/1) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
+1. 🔒 Closed issue [#6](https://github.com/XFarooqi/MLSA/issues/6) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
+2. ❗ Opened issue [#6](https://github.com/XFarooqi/MLSA/issues/6) in [XFarooqi/MLSA](https://github.com/XFarooqi/MLSA)
+3. 🔒 Closed issue [#4](https://github.com/XFarooqi/hackathon-project/issues/4) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
+4. ❗ Opened issue [#4](https://github.com/XFarooqi/hackathon-project/issues/4) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
+5. 🎉 Merged PR [#2](https://github.com/XFarooqi/hackathon-project/pull/2) in [XFarooqi/hackathon-project](https://github.com/XFarooqi/hackathon-project)
 <!--END_SECTION:activity-->
   
 </details>
